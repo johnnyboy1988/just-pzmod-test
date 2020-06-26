@@ -1,0 +1,6 @@
+version=1
+id=2142243991
+title=A JohnnyBoy Items
+description=my first mod, just testing
+tags=
+visibility=public

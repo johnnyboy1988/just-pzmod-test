@@ -1,0 +1,30 @@
+module JohnnyBoyItems
+{
+    imports
+    {
+        Base
+
+    }
+
+/************************RECIPES************************/
+    recipe Make Molotov Cocktail
+    {
+        WhiskeyEmpty,
+		Cologne,
+        RippedSheets/RippedSheetsDirty
+
+        Result:Molotov,
+        Sound:PutItemInBag,
+		Time:25
+    }
+    recipe Make MolotovCocktail2
+    {
+        WhiskeyEmpty,
+		Cologne,
+        RippedSheets/RippedSheetsDirty
+
+        Result:Molotov,
+        Sound:PutItemInBag,
+		Time:25
+    }
+}
